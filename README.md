@@ -31,7 +31,7 @@ The application is covered under the following license: <br>
 * Mac macro hotkeys/shortcuts for Zoom application
 * Macro hotkeys for frequently used git commands
 * Mac macro shortcuts for Chrome Application
-* Mac macro shorts for VSCode applications
+* Mac macro shortcuts for VSCode applications
 * Mac macro misc shortcuts (open, save, quit, force quit, etc.)
 
 ## [Installation](#table-of-contents)
