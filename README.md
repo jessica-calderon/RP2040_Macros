@@ -29,7 +29,7 @@ The application is covered under the following license: <br>
 
 ## [Contribution](#table-of-contents)
 * `code.py` developed by 2021 Phillip Burgess for Adafruit Industries (see link in description)
-* `lib/` subdirectory are the precompiled Adafruit libraries that power the Macropad.
+* `lib/` subdirectory contains the precompiled Adafruit libraries that power the Macropad.
 
 ## [Questions](#table-of-contents)
 Questions? Please contact me at the following links: <br>
