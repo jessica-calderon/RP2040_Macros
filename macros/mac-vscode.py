@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2022 Jessica E. Calderon
+# SPDX-FileCopyrightText: 2022 by Jessica E. Calderon
 #
 # SPDX-License-Identifier: MIT
 

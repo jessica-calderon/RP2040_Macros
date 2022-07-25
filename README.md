@@ -28,16 +28,19 @@ The application is covered under the following license: <br>
 
 ## [Usage](#table-of-contents)
 
-* Mac Macro hotkeys/shortcuts for Zoom application
+* Mac macro hotkeys/shortcuts for Zoom application
 * Macro hotkeys for frequently used git commands
+* Mac macro shortcuts for Chrome Application
+* Mac macro shorts for VSCode applications
+* Mac macro misc shortcuts (open, save, quit, force quit, etc.)
 
 ## [Installation](#table-of-contents)
 
 * `git clone git@github.com:jessica-calderon/RP2040_Macros.git`
-* Copy to mounted RP2040 (must be latest CircuitPython version 8.0.0)
+* Copy to mounted RP2040 (must be latest [CircuitPython version 8.0.0](https://circuitpython.org/board/adafruit_macropad_rp2040/))
 
 ## [Contribution](#table-of-contents)
-* `code.py` developed by 2021 Phillip Burgess for Adafruit Industries (see link in description)
+* `code.py` and `app.py` developed by Phillip Burgess for Adafruit Industries (see link in description)
 * `lib/` subdirectory contains the precompiled Adafruit libraries that power the Macropad.
 
 ## [Questions](#table-of-contents)
