@@ -6,6 +6,7 @@
 * [Built With](#languages)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Contribution](#contribution)
 * [Questions](#questions)
 
     ![badge](https://img.shields.io/badge/license-MIT-blue)
@@ -34,6 +35,10 @@ The application is covered under the following license: <br>
 
 * `git clone git@github.com:jessica-calderon/RP2040_Macros.git`
 * Copy to mounted RP2040 (must be latest CircuitPython version 8.0.0)
+
+## [Contribution](#table-of-contents)
+* `code.py` developed by 2021 Phillip Burgess for Adafruit Industries (see link in description)
+* `lib/` subdirectory contains the precompiled Adafruit libraries that power the Macropad.
 
 ## [Questions](#table-of-contents)
 
