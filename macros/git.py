@@ -16,7 +16,7 @@ app = {                      # REQUIRED dict, must be named 'app'
         (0x004000, 'Push', ['git push ']),
         # 2nd row ----------
         (0xff0076, 'origin', ['origin ']),
-        (0xff0076, 'main', ['main']),
+        (0x004000, 'main', ['main']),
         (0xff0076, 'Pull', ['git pull ']),
         # 3rd row ----------
         (0x0a0dd8, 'Merge', ['git merge ']),
@@ -25,7 +25,7 @@ app = {                      # REQUIRED dict, must be named 'app'
         # 4th row ----------
         (0xc70000, 'Status', ['git status']),
         (0xc70000, 'Branch', ['git branch']),
-        (0xc70000,  'Clone', ['git clone ']),
+        (0xFFFF00,  'Clone', ['git clone ']),
         # Encoder button ---
         (0x000000, '', [Keycode.COMMAND, 'w']) # Close window/tab
     ]
