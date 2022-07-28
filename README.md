@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Description](#description)
+* [Important Links](#important-links)
 * [Built With](#languages)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -15,7 +16,12 @@
 
 Custom CircuitPython Macros for Adafruit RP2040 12 Key Macropad
 
-[Adafruit MacroPad RP2040](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-macropad-rp2040.pdf)
+## [Important Links](#table-of-contents)
+* [Adafruit MacroPad RP2040](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-macropad-rp2040.pdf)
+* [Adafruit's blog post on this particular project](https://blog.adafruit.com/2022/07/27/macros-python-and-a-hotkey-keyboard-macropad-circuitpython-webjessc/),
+* [My blog post on this project](https://webjess.code.blog/2022/07/25/macros-python-and-hotkeys/)
+
+* [This curated awesome-macropad list](https://github.com/prcutler/awesome-macropad)
 
 ## [Languages](#table-of-contents)
 
