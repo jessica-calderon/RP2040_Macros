@@ -1,5 +1,5 @@
 # RP2040 Macros
-
+![badge](https://img.shields.io/badge/Made%20with%20%E2%99%A5%20by%20-Jessica%20E.%20Calderon-blueviolet)
 ## Table of Contents
 
 * [Description](#description)
