@@ -23,12 +23,12 @@ app = {                    # REQUIRED dict, must be named 'app'
         (0x000040, 'Home', [Keycode.COMMAND, 'H']),
         (0x000040, 'Private', [Keycode.COMMAND, Keycode.SHIFT, 'N']),
         # 4th row ---------- # can configure to custom websites
-        (0x000000, 'UTSA', [Keycode.COMMAND, 'n', -Keycode.COMMAND,
-                            'https://courses.bootcampspot.com/\n']),   # UTSA Bootcamp in new window
+        (0x000000, 'Google', [Keycode.COMMAND, 'n', -Keycode.COMMAND,
+                            'https://google.com\n']),   # Google in new window
         (0x800000, 'Github', [Keycode.COMMAND, 'n', -Keycode.COMMAND,
                               'www.github.com\n']),   # Github in new window
         (0x101010, 'local', [Keycode.COMMAND, 'n', -Keycode.COMMAND,
-                             'http://localhost:3001/\n']),  # localhost in new win
+                             'http://localhost:3001/\n']),  # localhost in new window
         # Encoder button ---
         (0x000000, '', [Keycode.COMMAND, 'w'])  # Close window/tab
     ]
